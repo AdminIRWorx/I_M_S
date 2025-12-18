@@ -1,0 +1,13 @@
+{
+    "bookNotFound": "I-ID yebhuku ayivumelekile. Sicela uyihlole bese uzama futhi",
+    "bookUpdated": "Ibhuku libuyekezwe ngempumelelo",
+    "bookDeleted": "Ibhuku lisusiwe ngempumelelo",
+    "bookNameRequired": "Igama lebhuku liyadingeka!",
+    "bookNameLength": "Igama lebhuku kufanele libe phakathi kwezinhlamvu ezi-5 nezi-100",
+    "stockCountRequired": "Inani lesitoko liyadingeka!",
+    "stockCountLength": "Inani lesitoko ngeke libe ngaphansi kwe-1",
+    "priceRequired": "Intengo iyadingeka!",
+    "priceLength": "Intengo kufanele ibe phakathi kwe-1 ne-1000",
+    "imageRequired": "Isithombe siyadingeka!",
+    "validImageUrl": "Isithombe kufanele sibe yi-URL evumelekile"
+}

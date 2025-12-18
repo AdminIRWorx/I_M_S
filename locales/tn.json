@@ -1,0 +1,13 @@
+{
+    "bookNotFound": "ID ya buka ga e a nepaga. Tswee-tswee e thole mme o leke gape",
+    "bookUpdated": "Buka e ntshafaditswe ka katlego",
+    "bookDeleted": "Buka e fofotshwe ka katlego",
+    "bookNameRequired": "Leina la buka lea tlhokega!",
+    "bookNameLength": "Leina la buka le tshwanetse go nna magareng ga ditlhaka tse 5 le tse 100",
+    "stockCountRequired": "Palo ya setoko ea tlhokega!",
+    "stockCountLength": "Palo ya setoko ga e kake ya nna kwa tlase ga 1",
+    "priceRequired": "Tlhwatlhwa ea tlhokega!",
+    "priceLength": "Tlhwatlhwa e tshwanetse go nna magareng ga 1 le 1000",
+    "imageRequired": "Setshwantsho sea tlhokega!",
+    "validImageUrl": "Setshwantsho se tshwanetse go nna URL e e nepagetseng"
+}

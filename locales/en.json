@@ -1,0 +1,13 @@
+{
+    "bookNotFound": "Invalid Book ID. Please check it and try again",
+    "bookUpdated": "Book updated succesfully",
+    "bookDeleted": "Book deleted succesfully",
+    "bookNameRequired": "Book name is required!",
+    "bookNameLength": "Book name must be between 5 and 100 characters",
+    "stockCountRequired": "Stock count is required!",
+    "stockCountLength": "Stock count cannot be less than 1",
+    "priceRequired": "Price is required!",
+    "priceLength": "Price must be between 1 and 1000",
+    "imageRequired": "Image is required!",
+    "validImageUrl": "Image must be a valid URL"
+}

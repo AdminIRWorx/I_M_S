@@ -1,0 +1,13 @@
+{
+    "bookNotFound": "Ongeldige Boek-ID. Gaan dit asseblief na en probeer weer",
+    "bookUpdated": "Boek suksesvol opgedateer",
+    "bookDeleted": "Boek suksesvol verwyder",
+    "bookNameRequired": "Boeknaam word vereis!",
+    "bookNameLength": "Boeknaam moet tussen 5 en 100 karakters wees",
+    "stockCountRequired": "Voorraadtelling word vereis!",
+    "stockCountLength": "Voorraadtelling mag nie minder as 1 wees nie",
+    "priceRequired": "Prys word vereis!",
+    "priceLength": "Prys moet tussen 1 en 1000 wees",
+    "imageRequired": "Beeld word vereis!",
+    "validImageUrl": "Beeld moet 'n geldige URL wees"
+}

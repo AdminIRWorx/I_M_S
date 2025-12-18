@@ -1,0 +1,13 @@
+{
+    "bookNotFound": "ID de libro no válido. Por favor, compruébelo e inténtelo de nuevo",
+    "bookUpdated": "Libro actualizado correctamente",
+    "bookDeleted": "Libro eliminado correctamente",
+    "bookNameRequired": "¡El nombre del libro es obligatorio!",
+    "bookNameLength": "El nombre del libro debe tener entre 5 y 100 caracteres",
+    "stockCountRequired": "¡La cantidad de stock es obligatoria!",
+    "stockCountLength": "La cantidad de stock no puede ser inferior a 1",
+    "priceRequired": "¡El precio es obligatorio!",
+    "priceLength": "El precio debe estar entre 1 y 1000",
+    "imageRequired": "¡La imagen es obligatoria!",
+    "validImageUrl": "La imagen debe ser una URL válida"
+}
